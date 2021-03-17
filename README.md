@@ -2,8 +2,8 @@
 
 ## Team Members
 - Freddie Clarke
-- 
--
+- Abhi Sharma
+- Evan Dilger
 ## General Idea
 An app to manage personal medication
 
