@@ -28,6 +28,15 @@ An app to manage personal medication
 - Signup page
 - List of medication
 - Add medication
+ Profile (optional)
+
+##Navigation Flows
+-Login Page->Medication List
+-SignUp Page->Medication List
+-Edit button->Already filled add medication page
+
+
+=======
 - Profile
 
 **Tab Navigation** (Tab to Screen)
